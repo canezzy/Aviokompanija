@@ -1,0 +1,11 @@
+AA0000|AER|KZN|2:15|7:15|Aerocondor|cet|1/1|100
+AA0001|ASF|KZN|7:15|12:15|Aerocondor|uto,pet|16/12|100
+AA0002|KZN|MRV|14:00|22:00|Aerocondor|cet,ned|21/12|140
+AA0003|CEK|KZN|8:30|17:30|Aerocondor|pon,sre,cet,sub|19/5|180
+AA0004|CEK|OVB|19:15|5:15|Aerocondor|uto,cet,pet,ned|21/8|200
+AA0005|DME|KZN|5:15|12:15|Aerocondor|uto,cet,ned|26/13|140
+AA0006|DME|NBC|16:15|22:15|Aerocondor|sre|18/8|120
+AA0007|DME|TGK|7:30|12:30|Aerocondor|sre,pet,ned|15/11|100
+AA0008|DME|UUA|11:00|14:00|Aerocondor|pon,sre,cet,pet|20/11|60
+AA0009|EGO|KGD|17:30|20:30|Aerocondor|cet,pet,ned|25/11|60
+AA0010|EGO|KZN|10:15|21:15|Aerocondor|pon,uto,cet|19/12|220

@@ -1,0 +1,2 @@
+nenad|123|Nenad|Misic|menadzer
+patrik|321|Patrik|Zvezda|prodavac

@@ -1,0 +1,4 @@
+AA0010|EGO|KZN|10:15|21:15|Aerocondor|pon,uto,cet|19/12|220|31-01-2017|patrik|zvezda|koralovsko|12345|2017-02-01|patrik|1/A
+AA0001|ASF|KZN|7:15|12:15|Aerocondor|uto,pet|16/12|100|31-01-2017|nenad|misic|srpsko|12|2017-02-02|nenad|16/L
+AA0001|ASF|KZN|7:15|12:15|Aerocondor|uto,pet|16/12|100|31-01-2017|nenad|misic|123|12|2017-01-31|nenad|14/D
+AA0001|ASF|KZN|7:15|12:15|Aerocondor|uto,pet|16/12|100|31-01-2017|nenas|fdmkgd|dfmg|12|2017-02-02|nenad|1/D
